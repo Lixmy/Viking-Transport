@@ -6,6 +6,6 @@ This repo contains the files used for the website, but the database is not usabl
 
 /// HOW TO OPEN ///
 
-    download the viking-transport folder
-    locate and open the index.php file
-    navigate at will (note: since there is no access to the database, the administrator as well as the connected usor versions of the website are not directly accessible through simple navigation, you have to open the .php files manually to see them)
+- download the viking-transport folder
+- locate and open the index.php file
+- navigate at will (note: since there is no access to the database, the administrator as well as the connected usor versions of the website are not directly accessible through simple navigation, you have to open the .php files manually to see them)
